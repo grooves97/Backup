@@ -1,0 +1,7 @@
+C:\Users\ww\Source\Backup\Backup\Backup\obj\Debug\Backup.csprojAssemblyReference.cache
+C:\Users\ww\Source\Backup\Backup\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\ww\Source\Backup\Backup\Backup\bin\Debug\Backup.exe.config
+C:\Users\ww\Source\Backup\Backup\Backup\bin\Debug\Backup.exe
+C:\Users\ww\Source\Backup\Backup\Backup\bin\Debug\Backup.pdb
+C:\Users\ww\Source\Backup\Backup\Backup\obj\Debug\Backup.exe
+C:\Users\ww\Source\Backup\Backup\Backup\obj\Debug\Backup.pdb
